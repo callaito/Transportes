@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\bin\Debug\net6.0\Trafico.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\bin\Debug\net6.0\Trafico.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\bin\Debug\net6.0\Trafico.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\bin\Debug\net6.0\Trafico.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\bin\Debug\net6.0\Trafico.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\Trafico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\Trafico.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\Trafico.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\Trafico.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\Trafico.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\refint\Trafico.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\Trafico.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\Trafico.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Trafico\obj\Debug\net6.0\ref\Trafico.dll

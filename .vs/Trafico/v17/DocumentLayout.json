@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\bus urbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:bus urbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|c:\\users\\pc\\documents\\trabajos de gama\\primeros ejercicios\\trafico\\bus interurbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:bus interurbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\metro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:metro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\teleferico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC06D0-01E9-4836-A5EB-E42419A79946}|Trafico.csproj|solutionrelative:teleferico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "teleferico.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\teleferico.cs",
+              "RelativeDocumentMoniker": "teleferico.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\teleferico.cs",
+              "RelativeToolTip": "teleferico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:05.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "metro.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\metro.cs",
+              "RelativeDocumentMoniker": "metro.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\metro.cs",
+              "RelativeToolTip": "metro.cs",
+              "ViewState": "AQIAAAQAAADgxnHtxzcrwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:05.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "taxi.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\taxi.cs",
+              "RelativeDocumentMoniker": "taxi.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\taxi.cs",
+              "RelativeToolTip": "taxi.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bus urbano.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\bus urbano.cs",
+              "RelativeDocumentMoniker": "bus urbano.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\bus urbano.cs",
+              "RelativeToolTip": "bus urbano.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bus interurbano.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\bus interurbano.cs",
+              "RelativeDocumentMoniker": "bus interurbano.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\bus interurbano.cs",
+              "RelativeToolTip": "bus interurbano.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:06.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:06.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "transporte.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\transporte.cs",
+              "RelativeDocumentMoniker": "transporte.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\transporte.cs",
+              "RelativeToolTip": "transporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:06.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\Operaciones.cs",
+              "RelativeDocumentMoniker": "Operaciones.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Trafico\\Operaciones.cs",
+              "RelativeToolTip": "Operaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:51:06.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
